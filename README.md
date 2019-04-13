@@ -1,2 +1,2 @@
 # mydb
-imple jason db for testing
+simple jason db for testing
