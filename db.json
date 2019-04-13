@@ -1,0 +1,55 @@
+
+  "posts": [
+    { 
+      "id": 1, 
+      "title": "black clover", 
+      "imgUrl": "https://www.nautiljon.com/images/anime/00/74/black_clover_tv_6447.jpg", 
+      "desc": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها. ولذلك يتم استخدام طريقة لوريم إيبسوم لأنها تعطي توزيعاَ طبيعياَ -إلى حد ما- للأحرف عوضاً عن استخدام هنا يوجد محتوى نصي، هنا يوجد محتوى نصيف تجعلها تبدو (أي الأحرف) وكأنها نص مقروء." ,
+      "trailer": "https://www.youtube.com/embed/yxPhb2kCNMk",
+      "episode":{
+        "epImg": "https://cdn.vox-cdn.com/thumbor/mlKY3GoV4aX_OJ5V3rl-bYCAKtQ=/0x0:1920x1080/1200x800/filters:focal(1101x386:1407x692)/cdn.vox-cdn.com/uploads/chorus_image/image/62623727/0_sZnr3Tr_6978vmjQ.0.jpg",
+        "epNum": "1",
+        "links":{
+          "link1": "https://ok.ru/videoembed/491629120134",
+          "link2": "https://ok.ru/videoembed/491629120134",
+          "link3": "https://ok.ru/videoembed/491629120134"
+        }
+      }
+     },
+     { 
+      "id": 1, 
+      "title": "black clover", 
+      "imgUrl": "https://img1.ak.crunchyroll.com/i/spire1/78916dd5588a8ff3cd244e5deca7aa781532559376_full.jpg", 
+      "desc": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها. ولذلك يتم استخدام طريقة لوريم إيبسوم لأنها تعطي توزيعاَ طبيعياَ -إلى حد ما- للأحرف عوضاً عن استخدام هنا يوجد محتوى نصي، هنا يوجد محتوى نصيف تجعلها تبدو (أي الأحرف) وكأنها نص مقروء." ,
+      "trailer": "https://youtu.be/a3mo2TZGXlM",
+      "episode":{
+        "epImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDQ3kF8Jfy1ZTFTxj_KMDZRb9rvtHzAHtfH3XawPAO7OFs13dVw",
+        "epNum": "2",
+        "links":{
+          "link1": "https://ok.ru/videoembed/491629120134",
+          "link2": "https://ok.ru/videoembed/491629120134",
+          "link3": "https://ok.ru/videoembed/491629120134"
+        }
+      }
+     },
+     { 
+      "id": 1, 
+      "title": "black clover", 
+      "imgUrl": "https://s3-eu-west-1.amazonaws.com/nc1073/catalog/product/cache/1/image/400x/8a02aedcaf38ad3a98187ab0a1dede95/i/144/9782364800144_1_75.jpg", 
+      "desc": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها. ولذلك يتم استخدام طريقة لوريم إيبسوم لأنها تعطي توزيعاَ طبيعياَ -إلى حد ما- للأحرف عوضاً عن استخدام هنا يوجد محتوى نصي، هنا يوجد محتوى نصيف تجعلها تبدو (أي الأحرف) وكأنها نص مقروء." ,
+      "trailer": "https://youtu.be/kJCMQXNvADk",
+      "episode":{
+        "epImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Y6jN3rZt0NxYeprAFHhMNE_2OTIJzbDBM-NovHg0ledBGI-7",
+        "epNum": "3",
+        "links":{
+          "link1": "https://ok.ru/videoembed/491629120134",
+          "link2": "https://ok.ru/videoembed/491629120134",
+          "link3": "https://ok.ru/videoembed/491629120134"
+        }
+      }
+     }
+  ],
+  "profile": {
+    "name": "admin"
+  }
+}
